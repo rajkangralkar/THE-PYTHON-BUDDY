@@ -67,7 +67,7 @@ This project resulted in a **published research paper** on text-to-code generati
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Sumeet Kamble**  
 Computer Science & AI  
