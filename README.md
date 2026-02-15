@@ -62,13 +62,21 @@ The model treats both input prompts and generated code as text sequences, enabli
 ## 📂 Project Structure
 
 Python-Buddy/
+
 │
+
 ├── data/ # Training datasets (text-code pairs)
+
 ├── model/ # Model configuration & checkpoints
+
 ├── training/ # Fine-tuning scripts
+
 ├── inference/ # Code generation scripts
+
 ├── utils/ # Helper utilities
+
 ├── requirements.txt
+
 └── README.md
 
 
