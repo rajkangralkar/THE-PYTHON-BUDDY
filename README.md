@@ -77,7 +77,7 @@ Python-Buddy/
 ## ⚙️ Installation
 
 
-git clone https://github.com/yourusername/Python-Buddy.git
+git clone https:/rajkangralkar/github.com//Python-Buddy.git
 cd Python-Buddy
 pip install -r requirements.txt
 ▶️ Usage 
