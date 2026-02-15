@@ -69,6 +69,6 @@ This project resulted in a **published research paper** on text-to-code generati
 
 ## 👨‍💻 Developer
 
-**Sumeet Kamble**  
+**RAJ Y KANGRALKAR**  
 Computer Science & AI  
 KLE Technological University
